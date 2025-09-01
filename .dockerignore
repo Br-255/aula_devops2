@@ -1,0 +1,5 @@
+.git
+.fithub
+__pycache__/
+*.pyc
+.env
